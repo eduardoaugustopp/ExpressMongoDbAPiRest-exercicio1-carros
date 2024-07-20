@@ -3,6 +3,8 @@
 <h2>�� Sobre</h2>
 <p>Banco de dados criado para praticar o Curso Node.js: criando uma API Rest com Express e MongoDB</p>
 
+https://github.com/user-attachments/assets/4489a65f-476c-4266-9897-2f735ac6d230
+
 <h2>��APIs com Node.js e Express / ALURA</h2>
 <p>
 -Aprender a criar uma API do zero, seguindo o estilo arquitetural REST<br>
